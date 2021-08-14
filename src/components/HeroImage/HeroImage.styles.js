@@ -15,7 +15,7 @@ export const Wrapper = styled.div`
 
   @keyframes animateHeroImage {
     from {
-      fill-opacity: 0;
+      opacity: 0;
     }
     to {
       opacity: 1;
